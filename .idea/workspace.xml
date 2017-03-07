@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="905ead0a-e38f-421e-a400-6fb7a72290ed" name="Default" comment="Deleting Images">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fire-damage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog-post-template.html" afterPath="$PROJECT_DIR$/blog-post-template.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mold-faq.html" afterPath="$PROJECT_DIR$/mold-faq.html" />
+    <list default="true" id="905ead0a-e38f-421e-a400-6fb7a72290ed" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="giordano-site-2017.iws" />
@@ -42,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.7283237">
-              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -292,7 +288,13 @@
       <option name="project" value="LOCAL" />
       <updated>1488922558328</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Deleting Images">
+      <created>1488929390592</created>
+      <option name="number" value="00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1488929390592</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -721,7 +723,7 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7283237">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
           <folding />
         </state>
       </provider>
