@@ -1886,7 +1886,7 @@ By ADAMSCHWARTZ
 }
 /********************************
 
-LANDING PAGE index.html
+LANDING PAGE index.php
 
 ************************************/
 .intro-banner {
@@ -2181,9 +2181,6 @@ video::-webkit-media-controls-panel {
 .learn-more-btn {
   font-size: 1.5em;
 }
-/*.faq-slide{*/
-  /*max-width: 700px;*/
-/*}*/
 
 
 
