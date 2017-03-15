@@ -11,3 +11,5 @@ Please make VERY sure to remove all original content before uploading to the web
 Please send a pull request or contact me directly before re-using this template.
 If you reuse this template no attribution is needed.
 **Happy coding!**
+
+[View this project](http://giordanorestoration.com)
